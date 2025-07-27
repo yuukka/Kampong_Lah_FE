@@ -33,3 +33,4 @@ This is a proof-of-concept for a neighbourhood social network in Singapore.
   - Merchant account integration
   - Comments-on-comments
   - Data validation (Zod)
+  
